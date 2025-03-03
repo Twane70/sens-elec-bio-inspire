@@ -41,7 +41,7 @@ On simplifie cette modélisation grâce à la méthode des réflexions:
 - Le capteur crée un champ électrique $\mathbf{E}_0$
 - Chaque objet $i$ crée un champ perturbateur $\mathbf{E}_{1i}$
 - On néglige les réflexions suivantes
-- Le champ électrique total est $\mathbf{E} = \mathbf{E}_0 + \sum_i \mathbf{E}_{1i}$
+- Le champ électrique total est $\mathbf{E} = \mathbf{E}_0 + \sum_i \mathbf{E}\_{1i}$
 
 En voici la visualisation:
 
